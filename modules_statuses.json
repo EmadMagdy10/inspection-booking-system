@@ -1,0 +1,8 @@
+{
+    "Auth": true,
+    "User": true,
+    "Tenant": true,
+    "Team": true,
+    "Availability": true,
+    "Bookings": true
+}
